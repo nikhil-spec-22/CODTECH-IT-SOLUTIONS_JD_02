@@ -1,10 +1,9 @@
 # CODTECH IT SOLUTIONS
 Java development internship at CODTECH IT SOLUTIONS.
 
-##  (TASK 2)
-Develop a text-based Tic-Tac-Toe game where two players (human vs human or human vs computer).
-take turns placing their marks on a 3x3 grid.
-The program should check for wins, draws, and handle invalid moves.
+## BASIC CALCULATOR (TASK 2)
++ Create a simple console-based calculator that can perform basic mathematical operations like addition, subtraction, multiplication, and division.
+* Allow users to input numbers and choose the operation they want to perform.
 
 ## Installation
 Just,Clone this repository -
